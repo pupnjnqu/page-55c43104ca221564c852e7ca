@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pmdtdbg.cn/sitemap.xml

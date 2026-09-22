@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6d979045addcaa4e345d3f6d",
+  "owner": "pupnjnqu",
+  "repo": "page-55c43104ca221564c852e7ca",
+  "title": "猫云加速器(Catcloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "55c43104ca221564c852e7ca",
+      "a": "猫云加速器(Catcloud)",
+      "b": "2027官方最新地址导航",
+      "entity": "猫云加速器(Catcloud)",
+      "brand": "猫云加速器(Catcloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a7b0a038938181f05e425af100e8076e04d37575c57b6a341fd506a36154e2d0",
+      "content": {
+        "primary_entity": "猫云加速器(Catcloud)",
+        "keyword1": "猫云加速器(Catcloud)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅信息完成配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐并完成客户端订阅导入，即可开始日常使用。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_DESCRIPTION": "，猫云加速器提供按月与按年两种付费周期，基础版月付 ¥15、旗舰版月付 ¥35、团队版月付 ¥85，年付分别约为 ¥150、¥350 与 ¥850。流量从每月 100GB 到 1000GB，设备数量从 3 台到 20 台不等，适合个人、家庭或小型团队按需选择。",
+          "AI_FEATURES_INTRO": "从流量额度、在线设备数和订阅周期三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，旗舰版 300GB，团队版 1000GB，按实际用量挑选。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用终端数量决定。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付约为十个月价格，长期使用可选年付方案。",
+          "AI_FEATURE_TITLE_1": "看流量额度",
+          "AI_FEATURE_TITLE_2": "看设备数量",
+          "AI_FEATURE_TITLE_3": "看订阅周期",
+          "AI_GUIDE_INTRO": "按需选择套餐并完成订阅导入，即可在对应设备上使用猫云加速器。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "猫云加速器提供基础版、旗舰版与团队版三档套餐，流量、设备数和线路各有侧重。按月或按年付费均可，适合个人日常浏览、流媒体观看或小型团队协同使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15，每月 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版月付 ¥35，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85，每月 1000GB",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用，旗舰版适合多设备流媒体与游戏，团队版适合设备多、流量大的场景。年付价格约为月付的十个月，长期使用更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数，在基础版、旗舰版、团队版中选择合适的档位。",
+          "AI_STEP_TEXT_2": "确认设备系统与套餐支持的同时在线数量，确保满足当前使用需求。",
+          "AI_STEP_TEXT_3": "按照所选客户端的说明，导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "猫云加速器套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版 3 台、旗舰版 5 台、团队版 20 台。统计的是同时在线连接数，超限时新设备可能无法连接，建议按常用设备数量选择。",
+          "AI_FAQ_ANSWER_2": "年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。按月付则依次是 ¥15、¥35、¥85。流量均在每自然月内有效。",
+          "AI_FAQ_ANSWER_3": "在订阅页面复制订阅地址，按所用客户端文档导入即可。不同客户端导入方式略有差异，路由器端通常需手动填写或引用订阅链接。",
+          "AI_FAQ_ANSWER_4": "旗舰版配备 IPLC 专线，面向游戏加速做了优化，延迟表现通常优于普通节点池。具体体验受本地网络影响，建议先按月试用。",
+          "AI_FAQ_ANSWER_5": "可以。在客户端中更新订阅即可获取最新节点列表，无需重新下载客户端或重新登录账号。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "月付和年付价格分别是多少？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "游戏加速该选哪个版本？",
+          "AI_FAQ_QUESTION_5": "更换套餐后需要重新配置吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pmdtdbg.cn",
+    "host": "pmdtdbg.cn"
+  },
+  "file_hashes": {
+    "index.html": "1c4e5dc76fd59e44a0e91611201e8b4b7b047eebc4fa8cb5ab2ad9d1a38c789d",
+    "sitemap.xml": "a9a7969e4506b3933d148c4648a0bc639ed85ab8d1b9864579fcfecd19c7e844",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "616f6173df501223961d3e31bf81a0a5536f0773094b836054cd73ee20c4cd3f",
+    "robots.txt": "4cc59546b356bbfb29f0ed0fc6c064891df4a7a59160730304c9b60081249499",
+    "00496ea396f3b5a7b7648c1d598b087a.txt": "0d7222978bce9cccbb8afdd0ec2863467aadf57081157eb73a9230ed725047d5"
+  },
+  "revision": "bbefe5e8fe41df763129e5b26a7077cde7254ffb7c0c9cb0556cf17c28a478fb"
+}
